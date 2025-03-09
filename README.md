@@ -5,19 +5,19 @@ My name is Steve Handy. This page was initialized at the start of my coding jour
 Visit my [LinkedIn](www.linkedin.com/in/k1nghandy) or [Indeed](https://profile.indeed.com/p/stephenh-uaweqfx) for hiring inquiries.
 
 ## Languages/frameworks
-  HTML
-  CSS
-  Javascript
-  Swift
-  React
-  Axios
-  Jest
-  Yup
-  Typescript
+  HTML,
+  CSS,
+  Javascript,
+  Swift,
+  React,
+  Axios,
+  Jest,
+  Yup,
+  Typescript,
   Node
 
 ## LLM experience
-  ChatGPT 4o
-  Gemini
-  Claude 3.7
+  ChatGPT 4o,
+  Gemini,
+  Claude 3.7,
   DALL-E
