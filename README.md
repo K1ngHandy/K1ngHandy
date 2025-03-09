@@ -5,6 +5,7 @@ My name is Steve Handy. This page was initialized at the start of my coding jour
 Visit my [LinkedIn](www.linkedin.com/in/k1nghandy) or [Indeed](https://profile.indeed.com/p/stephenh-uaweqfx) for hiring inquiries.
 
 ## Languages/frameworks
+  Git,
   HTML,
   CSS,
   Javascript,
