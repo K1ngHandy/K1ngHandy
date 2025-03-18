@@ -10,6 +10,7 @@ Visit my [LinkedIn](www.linkedin.com/in/k1nghandy) or [Indeed](https://profile.i
   CSS,
   Javascript,
   Swift,
+  Python,
   React,
   Axios,
   Jest,
