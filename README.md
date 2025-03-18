@@ -15,10 +15,12 @@ Visit my [LinkedIn](www.linkedin.com/in/k1nghandy) or [Indeed](https://profile.i
   Jest,
   Yup,
   Typescript,
-  Node
+  Node, 
+  Nvim
 
 ## LLM experience
   ChatGPT 4o,
   Gemini,
   Claude 3.7,
-  DALL-E
+  DALL-E,
+  LLama 3.2
