@@ -18,10 +18,3 @@ Visit my [LinkedIn](https://www.linkedin.com/in/k1nghandy) or [Indeed](https://p
   Typescript,
   Node, 
   Nvim
-
-## LLM experience
-  ChatGPT 4o,
-  Gemini,
-  Claude 3.7,
-  DALL-E,
-  LLama 3.2
