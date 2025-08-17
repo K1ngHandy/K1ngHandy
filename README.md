@@ -1,6 +1,6 @@
 # Welcome 💻
 
-My name is Steve Handy. This page was initialized at the start of my coding journey with Lambda School - now Bloom Institute of Technology. Repositories include learning through these schools, individual learning, and any websites & Apps I contribute to.
+My name is Steve Handy. Full Stack web developer with a solid foundation in Git, HTML, CSS, JavaScript, Python, React, Swift, Node.js, Material UI, and other modern UI frameworks. Currently advancing expertise on my coding journey with Computer Science at West Chester University and Full Stack Development at Bloom Institute of Technology.
 
 Visit my [LinkedIn](https://www.linkedin.com/in/k1nghandy) or [Indeed](https://profile.indeed.com/p/stephenh-uaweqfx) for hiring inquiries.
 
