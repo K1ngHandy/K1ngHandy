@@ -11,6 +11,7 @@ Visit my [LinkedIn](https://www.linkedin.com/in/k1nghandy) or [Indeed](https://p
   Javascript,
   Swift,
   Python,
+  Java,
   React,
   Axios,
   Jest,
