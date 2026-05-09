@@ -1,6 +1,6 @@
 # Welcome 💻
 
-My name is Steve Handy. Full Stack web developer with a solid foundation in Git, HTML, CSS, JavaScript, Python, React, Swift, Node.js, Material UI, and other modern UI frameworks. Currently advancing expertise on my coding journey with Computer Science at West Chester University and Full Stack Development at Bloom Institute of Technology.
+My name is Steve Handy. Full Stack web developer with a solid foundation in Git, HTML, CSS, Java, JavaScript, Python, React, Swift, Node.js, Material UI, and other modern UI frameworks. Currently advancing expertise on my coding journey with Computer Science at West Chester University and Full Stack Development at Bloom Institute of Technology.
 
 Visit my [LinkedIn](https://www.linkedin.com/in/k1nghandy) or [Indeed](https://profile.indeed.com/p/stephenh-uaweqfx) for hiring inquiries.
 
@@ -8,7 +8,8 @@ Visit my [LinkedIn](https://www.linkedin.com/in/k1nghandy) or [Indeed](https://p
   Git,
   HTML,
   CSS,
-  Javascript,
+  Java, 
+  JavaScript,
   Swift,
   Python,
   Java,
